@@ -1,9 +1,8 @@
 
-## Laravel 9
+## Laravel 8
 ## ReactJs
 ## axios
 ## Bootstrap
-## React-router-domv6
 
 
 ### Crud Opteration
